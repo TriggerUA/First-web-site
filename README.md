@@ -7,6 +7,7 @@
 - Use Git for version control.
 
 <img width="703" height="185" alt="image" src="https://github.com/user-attachments/assets/fd6263c8-4b0d-4f52-b6b5-bffccc93cf96" />
+<img width="437" height="188" alt="image" src="https://github.com/user-attachments/assets/d5448ef2-4a2f-4c02-9b54-e65e2314f107" />
 
 
 ## Project Structure
