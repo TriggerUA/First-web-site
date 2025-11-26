@@ -1,6 +1,10 @@
 # lab
 
 This template should help get you started developing with Vue 3 in Vite.
+<img width="950" height="470" alt="image" src="https://github.com/user-attachments/assets/0a871222-c7c7-405d-8824-0defc96016d0" />
+<img width="952" height="373" alt="image" src="https://github.com/user-attachments/assets/8bbc11a7-bab6-41ac-8712-b30cd3a6eaf9" />
+<img width="949" height="438" alt="image" src="https://github.com/user-attachments/assets/b9e8eb2d-044b-4175-b7a2-45eda9beefed" />
+![Uploading image.png…]()
 
 ## Recommended IDE Setup
 
